@@ -1,4 +1,4 @@
-# mailchecker
+# node-mailchecker
  
 POP3でメールを取得しローカルに保存するNode.js用プログラム
 
