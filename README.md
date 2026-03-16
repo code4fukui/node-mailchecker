@@ -1,7 +1,7 @@
 # node-mailchecker
+日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
  
 POP3でメールを取得しローカルに保存するNode.js用プログラム
-
 
 ## how to use
 
@@ -38,3 +38,5 @@ Gmailの場合、メールアドレス前の recent: がついていると最新
 
 [node-pop3](https://github.com/node-pop3/node-pop3)
 
+## License
+This project is licensed under the [MIT License](LICENSE).
